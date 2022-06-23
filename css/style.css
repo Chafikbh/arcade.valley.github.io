@@ -569,4 +569,17 @@ footer{
     }
 }
 
+@media screen and (min-width: 360px){
+    #work-title{
+        font-size: 3.3rem !important;
+    }
+    .title-title{
+        font-size: 2.9rem !important;
+    }
+
+    #work-title{
+        font-size: 3rem !important;
+    }
+}
+
 
